@@ -1,0 +1,1 @@
+Todd WenkerCSE 240 hw1q1-2.txtMS Visual Studio is a lot more accommodating in terms of compilation, debugging, and editing. When it came to syntactic errors, Visual Studio could catch them while GCC only caught errors during compilation. Running the program is also easier on Visual Studio since it doesn’t require Unix commands.

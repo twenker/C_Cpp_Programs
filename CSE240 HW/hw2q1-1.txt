@@ -1,0 +1,1 @@
+The program receives an integer from the user and then calls the sleep2 method. The program then waits until the inputted integer’s amount of seconds elapses before the program ends.
